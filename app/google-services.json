@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "516616816562",
+    "project_id": "chatprueba-f0200",
+    "storage_bucket": "chatprueba-f0200.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516616816562:android:1fbff151965f19e2b246ab",
+        "android_client_info": {
+          "package_name": "edu.co.icesi.chatexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "516616816562-c1dg4q8vbh1d9f5hp7j83gfgamsdlfos.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD62eKoM4yQqj13nrBnOcMkOzLi7UkDcoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "516616816562-c1dg4q8vbh1d9f5hp7j83gfgamsdlfos.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
